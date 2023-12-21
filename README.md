@@ -1,11 +1,12 @@
-# LEAF: A Benchmark for Federated Settings
+# Distribution, Decentralization, and Communitization of LEAF
 
-## Resources
+## Original LEAF Details
+### Resources
 
   * **Homepage:** [leaf.cmu.edu](https://leaf.cmu.edu)
   * **Paper:** ["LEAF: A Benchmark for Federated Settings"](https://arxiv.org/abs/1812.01097)
 
-## Datasets
+### Datasets
 
 1. FEMNIST
 
@@ -43,7 +44,7 @@
   * **Details:** 1,660,820 users with a total of 56,587,343 comments. 
   * **Task:** Next-word Prediction.
 
-## Notes
+### Notes
 
 - Install the libraries listed in ```requirements.txt```
     - I.e. with pip: run ```pip3 install -r requirements.txt```
